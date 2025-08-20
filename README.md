@@ -35,6 +35,15 @@ Seaborn is a Python data visualization library based on Matplotlib, providing a 
 
 ---
 
+## 🎯 Purpose
+
+- 📘 Learn Seaborn step by step (Beginner → Advanced)
+- 🧑‍💻 Build a reference guide for future projects
+ - 📊 Create professional, clean visualizations
+- 🚀 Prepare for Data Analysis, Machine Learning, and AI projects
+
+---
+
 ## 📊 Example Outputs  
 
 Here are some example plots from the repository:  
@@ -48,12 +57,3 @@ titanic = sns.load_dataset("titanic")
 corr = titanic.corr()
 sns.heatmap(corr, annot=True, cmap="coolwarm")
 plt.show()
-
----
-
-🎯 Purpose
-
-- 📘 Learn Seaborn step by step (Beginner → Advanced)
-- 🧑‍💻 Build a reference guide for future projects
- - 📊 Create professional, clean visualizations
-- 🚀 Prepare for Data Analysis, Machine Learning, and AI projects
